@@ -1,0 +1,11 @@
+{
+  "org": "block",
+  "repo": "mdx-daemon-plugin",
+  "versions": [
+    {
+      "commit": "071e4b0b9d8d398e44647d6c4d9171b884e16328",
+      "tag": "v0.1.0",
+      "parsed_at": "2026-11-09T15:13:04.191196+00:00"
+    }
+  ]
+}
