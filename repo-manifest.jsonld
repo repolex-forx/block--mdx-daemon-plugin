@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/block/mdx-daemon-plugin/commit/071e4b0b9d8d398e44647d6c4d9171b884e16328",
       "git:hexsha": "071e4b0b9d8d398e44647d6c4d9171b884e16328",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.1.0"
     },
     {
