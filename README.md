@@ -38,6 +38,8 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   ├── ast
 │   │   └── 071e4b0b9d8d398e44647d6c4d9171b884e16328
 │   │       └── chunk-001.nq.gz
+│   ├── lsp
+│   │   └── 071e4b0b9d8d398e44647d6c4d9171b884e16328.nq.gz
 │   └── repolex
 │       └── 071e4b0b9d8d398e44647d6c4d9171b884e16328
 │           └── chunk-001.nq.gz
@@ -80,6 +82,8 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   └── branch.nq.gz
 ├── commit
 │   └── commit.nq.gz
+├── dep
+│   └── 071e4b0b9d8d398e44647d6c4d9171b884e16328.nq.gz
 ├── filetree
 │   └── 071e4b0b9d8d398e44647d6c4d9171b884e16328.nq.gz
 ├── pr
@@ -87,7 +91,7 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 └── tag
     └── tag.nq.gz
 
-12 directories, 41 files
+14 directories, 43 files
 ```
 
 | Directory | What it contains |
@@ -108,4 +112,4 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 [block/mdx-daemon-plugin](https://github.com/block/mdx-daemon-plugin)
 
 ---
-*Parsed on 2026-11-09 by [repolex](https://repolex.ai)*
+*Parsed on 2026-11-23 by [repolex](https://repolex.ai)*
