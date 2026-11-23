@@ -47,7 +47,37 @@
       "ast": [
         "aggregate/ast/071e4b0b9d8d398e44647d6c4d9171b884e16328/chunk-001.nq.gz"
       ],
-      "repolex": "aggregate/repolex/071e4b0b9d8d398e44647d6c4d9171b884e16328/chunk-001.nq.gz"
+      "repolex": "aggregate/repolex/071e4b0b9d8d398e44647d6c4d9171b884e16328/chunk-001.nq.gz",
+      "lsp": "aggregate/lsp/071e4b0b9d8d398e44647d6c4d9171b884e16328.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "junit:junit",
+          "ecosystem": "MAVEN",
+          "version": "4.13.2",
+          "githubOrg": "junit-team",
+          "githubRepo": "junit4",
+          "githubUrl": "https://github.com/junit-team/junit4",
+          "source": "build_file:build.gradle"
+        },
+        {
+          "packageName": "org.junit.jupiter:junit-jupiter-api",
+          "ecosystem": "MAVEN",
+          "version": "5.10.0",
+          "githubOrg": "junit-team",
+          "githubRepo": "junit-framework",
+          "githubUrl": "https://github.com/junit-team/junit-framework",
+          "source": "build_file:build.gradle"
+        },
+        {
+          "packageName": "org.mockito.kotlin:mockito-kotlin",
+          "ecosystem": "MAVEN",
+          "version": "5.2.1",
+          "githubOrg": "scm:git@github.com:mockito",
+          "githubRepo": "mockito-kotlin",
+          "githubUrl": "scm:git@github.com:mockito/mockito-kotlin.git",
+          "source": "build_file:build.gradle"
+        }
+      ]
     }
   ],
   "commit": "commit/commit.nq.gz",
