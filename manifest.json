@@ -77,7 +77,8 @@
           "githubUrl": "scm:git@github.com:mockito/mockito-kotlin.git",
           "source": "build_file:build.gradle"
         }
-      ]
+      ],
+      "dep": "dep/071e4b0b9d8d398e44647d6c4d9171b884e16328.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
